@@ -1,10 +1,10 @@
 // These are some variables and a mixin extracted from Phil Haack's implementation.
 $carbon-ad-width: 140px;
 $carbon-ad-font-size: 12pt;
-$brand-color:      #258fb8;
+$brand-color: #258fb8;
 
 #carbonads {
-  bottom: 1rem;
+  bottom: 9rem;
   display: block;
   position: fixed;
   right: 1rem;
@@ -55,8 +55,8 @@ $brand-color:      #258fb8;
     .carbon-img {
       float: left;
       margin-right: 10px;
-      vertical-align :middle;
-    } 
+      vertical-align: middle;
+    }
 
     .carbon-text {
       font-size: $carbon-ad-font-size;
@@ -68,5 +68,5 @@ $brand-color:      #258fb8;
 
   body .page-content {
     margin-right: 0;
-  }  
+  }
 }
