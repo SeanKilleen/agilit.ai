@@ -9,6 +9,9 @@ gallery:
   - url: /assets/images/2022-12-02_01_trump.png
     image_path: /assets/images/2022-12-02_01_trump.png
     alt: "An agile transformation speech in the in the style of Donald Trump"
+tags: 
+  - funny
+  - political
 ---
 
 {% include gallery %}
