@@ -96,25 +96,25 @@ analytics:
     anonymize_ip: # true, false (default)
 
 # Site Author
-author:
-  name: "Sean Killeen"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "By day, Director of Modern Software Delivery. By night, silly stuff like this."
-  location: "Virginia, USA"
-  email: # Add your e-mail here to add it to the author info.
-  links: # NOTE: You can add custom links here as well. You can use a label and font-awesome class
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:SeanKilleen@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://SeanKilleen.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sjkilleen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SeanKilleen"
+# author:
+#   name: "Sean Killeen"
+#   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio: "By day, Director of Modern Software Delivery. By night, silly stuff like this."
+#   location: "Virginia, USA"
+#   email: # Add your e-mail here to add it to the author info.
+#   links: # NOTE: You can add custom links here as well. You can use a label and font-awesome class
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:SeanKilleen@gmail.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://SeanKilleen.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/sjkilleen"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/SeanKilleen"
 
 # Site Footer
 footer:
